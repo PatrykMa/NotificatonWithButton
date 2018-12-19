@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NotificatonWithButton</string>
+    <string name="channel_name">Nazwa</string>
+    <string name="channel_description">opis</string>
+    <string name="something">coś o robi</string>
+</resources>
